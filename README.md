@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luimartin a.k.a Bowie
 - 👀 I’m interested in Programming, Artificial Intelligence, Machine Learning, Data Science, Software Engineering, and Investments
-- 🌱 I’m currently learning Computer Science (3rd Year)
+- 🌱 I’m currently learning Computer Science (4th Year)
 - 💞️ I’m looking to collaborate on Students (like me) who builds software projects related to AI
 - 📫 How to reach me: Lui Martin in Facebook
 
